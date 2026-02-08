@@ -12,7 +12,7 @@ The application provides dashboards and forms to:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 A fintech startup needs a **secure internal system** to manage all payment flows with proper traceability and reporting.
 
