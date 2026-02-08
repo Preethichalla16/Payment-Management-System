@@ -23,7 +23,7 @@ This project focuses on:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Vue.js 3**
 - **TypeScript**
@@ -35,9 +35,9 @@ This project focuses on:
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
-### 👤 User Management
+### User Management
 
 **Views**
 - **UserList.vue**  
@@ -51,7 +51,7 @@ This project focuses on:
 
 ---
 
-### 💰 Payment Management
+###  Payment Management
 
 **Views**
 - **PaymentList.vue**  
@@ -65,7 +65,7 @@ This project focuses on:
 
 ---
 
-### 📊 Dashboard
+### Dashboard
 
 - **Dashboard.vue**  
   Overview of users and payments
